@@ -1,0 +1,41 @@
+{% extends "layout.html" %}
+
+{% block style %}
+  <link rel="stylesheet" type="text/css" href="../static/css/workout.css" />
+{% endblock %}
+
+{% block title %}
+  Workout
+{% endblock %}
+
+{% block main %}
+<div id="return" class="jumbotron">
+
+  <div class="container">
+    <h1>{{spec1}} Workout: <small style="color: #500000">{{spec2}}</small></h1>
+  </div>
+
+</div>
+
+<div class = "container">
+  <div class="routine">
+
+    <h2 class="text-center">Warmup</h2>
+
+    {{tables[0] | safe}}
+
+  </div>
+  <div class="routine">
+
+    <h2 class="text-center">Main Routine</h2>
+
+    {{tables[1]| safe}}
+
+  </div>
+  <hr>
+  <h6 class="text-center">Thank you for using LightWork! </h6>
+  <!-- <h6 class="text-center">Please leave feedback by clicking the envelope link in the footer.</h6> -->
+
+
+</div>
+{% endblock %}

@@ -1,0 +1,81 @@
+Exercise,GymLevel,Equipment,ExerciseType,MovementType,Compound/Isolation,MuscleGroup,MajorMuscle,MinorMuscle,Sets,Reps,SL,MainLift,VideoLink
+Barbell Bench Press,Gym,Barbell,Weight,Push,Compound,Chest,Pec Major,"Triceps,Pec Minor",3-4,8-12,1,Yes,https://www.youtube.com/watch?v=rT7DgCr-3pg
+Flat Dumbbell Bench Press,Basic,Dumbbells,Weight,Push,Compound,Chest,Pec Major,"Triceps,Pec Minor",3,8-12,0,No,https://www.youtube.com/watch?v=VmB1G1K7v94&t=10s
+Incline Barbell Bench Press,Gym,Dumbbells,Weight,Push,Compound,Chest,Pec Major,"Triceps,Pec Minor",3,8-12,0,No,https://www.youtube.com/watch?v=DbFgADa2PL8
+Incline Dumbell Bench Press,Gym,Dumbbells,Weight,Push,Compound,Chest,Pec Major,"Triceps,Pec Minor",3,8-12,0,No,https://www.youtube.com/watch?v=0G2_XV7slIg
+Chest Dips,Gym,"Body Weight,Bench,Dip Bars,Barbell & Rack,Weight Belt",Weight,Push,Compound,Chest,Pec Major,"Triceps,Pec Minor",3,10,0,No,https://www.youtube.com/watch?v=dX_nSOOJIsE
+Pec Dec Machine Fly,Gym,Machine,Weight,Push,Isolation,Chest,Pec Minor,Pec Major,3,12,0,No,https://www.youtube.com/watch?v=Z57CtFmRMxA
+Incline Dumbell Pullover,Gym,Dumbbells,Weight,Push,Isolation,Chest,Pec Minor,Pec Major,3,10,0,No,https://www.youtube.com/watch?v=2sTO4gUzuvc
+Incline Bench Cable Fly,Gym,Cables,Weight,Push,Isolation,Chest,Pec Minor,Pec Major,3,12,0,No,https://www.youtube.com/watch?v=GtHNC-5GtR0
+Flying Pushups,Gymless,Body Weight,Calisthenics,Push,Compound,Chest,Pec Major,"Tricps,Pec Minor",3,10-15,0,No,https://www.youtube.com/watch?v=cLmgZf1yDsU
+Cable Fly,Gym,Cables,Weight,Push,Isolation,Chest,Pec Minor,Pec Major,3,12,0,No,https://www.youtube.com/watch?v=6KObip9bSDM&t=3s
+Dumbbell Fly,Basic,Dumbbells,Weight,Push,Isolation,Chest,Pec Minor,Pec Major,3,10,0,No,https://www.youtube.com/watch?v=eozdVDA78K0
+Machine Press,Gym,Machine,Weight,Push,Isolation,Chest,Pec Major,Pec Minor,3,10,0,No,https://www.youtube.com/watch?v=xUm0BiZCWlQ
+Flat Dumbbell Pullover,Gym,Dumbbells,Weight,Push,Isolation,Chest,Pec Minor,Pec Major,3,10,0,No,https://www.youtube.com/results?search_query=flat+dummbell+pullpover
+Military Press,Gym,Barbell,Weight,Push,Compound,Shoulders,"Mid Delt,Front Delt",Rear Delt,3-4,8-12,1,Yes,https://www.youtube.com/watch?v=2yjwXTZQDDI
+Overhead Press,Gym,Barbell,Weight,Push,Compound,Shoulders,"Mid Delt,Front Delt",Rear Delt,3-4,8-12,1,Yes,https://www.youtube.com/watch?v=iaBVSJm78ko
+Seated Dumbbell Press,Basic,Dumbbells,Weight,Push,Compound,Shoulders,"Mid Delt,Front Delt",Rear Delt,3,10-12,0,No,https://www.youtube.com/watch?v=qEwKCR5JCog
+Seated Arnolds,Basic,Dumbbells,Weight,Push,Compound,Shoulders,"Mid Delt,Front Delt","Biceps,Rear Delt",3,10-12,0,No,https://www.youtube.com/watch?v=mXRhpXwW-gs
+Lateral Raise,Basic,Dumbbells,Weight,Pull,Isolation,Shoulders,Mid Delt,"Front Delt,Rear Delt",3,10,0,No,https://www.youtube.com/watch?v=3VcKaXpzqRo
+Bent Over Reverse Fly,Basic,Dumbbells,Weight,Pull,Isolation,Shoulders,Rear Delt,"Upper back,Traps",3,10,0,No,https://www.youtube.com/watch?v=evXOlgLTPCw
+Upright Row,Gym,"Dumbbells,Machine",Weight,Pull,Compound,"Shoulders,Back","Mid Delt,Mid Back,Traps",Upper Back,3,10,0,No,https://www.youtube.com/watch?v=jaAV-rD45I0
+Seated Row,Gym,"Dumbbells,Machine",Weight,Pull,Compound,Back,Mid Back,"Biceps,Shoulders",3,10,0,No,https://www.youtube.com/watch?v=GZbfZ033f74
+Dumbbell Front Raises,Basic,Dumbbells,Weight,Pull,Isolation,Shoulders,Front Delt,"Mid Delt,Rear Delt",3,12,0,No,https://www.youtube.com/watch?v=-t7fuZ0KhDA
+ATHLEAN-X Raises,Basic,Dumbbells,Weight,Pull,Isolation,Shoulders,"Front Delt,Mid Delt,Rear Delt",Forearms,3,10,0,No,https://www.youtube.com/watch?v=YFLqFjY3Q5Y&t=6s
+Two Arm Dumbbell Upright Row,Basic,Dumbbells,Weight,Pull,Compound,"Shoulders,Back","Front Delt,Mid Back",Biceps,3,10,0,No,https://www.youtube.com/watch?v=IhZLB48kluc
+Pullups,Basic,"Rings/TRX,Barbell & Rack,Body Weight",Weight,Pull,Compound,Back,"Mid Back,Lats",Lower Back,3-4,8-15,1,Yes,https://www.youtube.com/watch?v=aAggnpPyR6E
+Chinups,Basic,"Rings/TRX,Barbell & Rack,Body Weight",Weight,Pull,Compound,Back,"Mid Back,Lats",Lower Back,3,6-10,0,No,https://www.youtube.com/watch?v=T78xCiw_R6g
+Lat Pulldowns,Gym,Machine,Weight,Pull,Isolation,Back,Lats,"Biceps,Rear Delt",3,12,0,No,https://www.muscleandfitness.com/workouts/back-exercises/videos/lat-pulldown
+Bent Over Barbell Row,Gym,Barbell,Weight,Pull,Compound,"Back,Shoulders","Upper Back,Mid Back","Lower Back,Biceps",3-4,8-12,1,Yes,https://www.youtube.com/watch?v=-xlBxIMqh3A
+Single Dumbbell Row,Gym,Dumbbells,Weight,Pull,Compound,"Back,Shoulders","Upper Back,Mid Back",Lower Back,3,8,0,No,https://www.youtube.com/watch?v=PgpQ4-jHiq4
+Kettebell Swings,Basic,"Kettlebells,Dumbbells",Weight,Pull,Isolation,Full,Full Body,,3,12,0,No,https://www.youtube.com/watch?v=vdezTMulJ-k
+Inverted Row,Gym,Dumbbells,Weight,Pull,Compound,"Back,Shoulders","Lower Back,Mid Back",Upper Back,3,12,0,No,https://www.youtube.com/watch?v=XZV9IwluPjw
+Dumbbell Curls,Basic,Dumbbells,Weight,Pull,Isolation,Arms,Biceps,,3,10-12,1,No,https://www.youtube.com/watch?v=in7PaeYlhrM
+Barbell Curls,Gym,Barbell,Weight,Pull,Isolation,Arms,Biceps,,3,8-12,1,Yes,https://www.youtube.com/watch?v=QZEqB6wUPxQ
+Concentration Curls,Basic,"Barbell,Dumbbells",Weight,Pull,Isolation,Arms,Biceps,,3,10-12,0,No,https://www.youtube.com/watch?v=Jvj2wV0vOYU
+Preacher Curls,Gym,Barbell,Weight,Pull,Isolation,Arms,Biceps,,3,12,0,No,https://www.youtube.com/watch?v=fIWP-FRFNU0
+Spider Curls,Gym,"Barbell,Dumbbells",Weight,Pull,Isolation,Arms,Biceps,,3,12,0,No,https://www.youtube.com/watch?v=-4RNtxT0LwM
+Barbell Skull Crushers,Gym,Barbell,Weight,Push,Isolation,Arms,Triceps,,3,12,0,No,https://www.youtube.com/watch?v=d_KZxkY_0cM
+Dumbell Skull Crushers,Basic,Dumbbells,Weight,Push,Isolation,Arms,Triceps,,3,12,0,No,https://www.youtube.com/watch?v=ir5PsbniVSc
+Dips,Gym,"Body Weight,Bench,Dip Bars,Barbell & Rack,Weight Belt",Weight,Push,Compound,Arms,Triceps,,3,8-12,1,No,https://www.youtube.com/watch?v=2z8JmcrW-As
+Tricep Pushdowns,Gym,Machine,Weight,Push,Isolation,Arms,Triceps,,3,12-15,0,No,https://www.youtube.com/watch?v=2-LAMcpzODU
+Barbell Reverse Curl,Gym,Barbell,Weight,Pull,Isolation,Arms,Forearms,,3,10,0,No,https://www.youtube.com/watch?v=njbSDR95tMY
+Zottman Curl,Gym,Dumbbells,Weight,Pull,Isolation,Arms,Forearms,,3,10,0,No,https://www.youtube.com/watch?v=L0REVLe-aQ4
+Suitcase Carry,Gym,Dumbbells,Weight,Pull,Isolation,Arms,Forearms,,3,25,0,No,https://www.youtube.com/watch?v=el0CrIYbOOM
+Farmer's Carry,Gym,Dumbbells,Weight,Pull,Isolation,Arms,Forearms,,3,25,0,No,https://www.youtube.com/watch?v=cBv3NcxqhPM
+Back Squat,Gym,Barbell,Weight,Push,Compound,Legs,"Quads,Glutes","Calves,Core,Lower Back",3-5,6-12,1,Yes,https://www.youtube.com/watch?v=SW_C1A-rejs
+Deadlift,Gym,Barbell,Weight,Pull,Compound,"Full,Back","Mid Back,Lower Back,Hamstrings","Forearms,Traps,Lats",3-5,6-12,1,Yes,https://www.youtube.com/watch?v=-4qRntuXBSc
+Sumo Deadlift,Gym,Barbell,Weight,Pull,Compound,"Full,Back","Mid Back,Lower Back,Hamstrings","Forearms,Traps,Lats",3-5,6-12,1,Yes,https://www.youtube.com/watch?v=PQ3A_HmfQyk
+Front Squat,Gym,Barbell,Weight,Push,Compound,Legs,Quads,"Glutes,Core",3,6-8,1,No,https://www.google.com/search?q=front+squat&source=lnms&tbm=vid&sa=X&ved=0ahUKEwj8i9Djy_PiAhUHWK0KHfJ1By8Q_AUIECgB&biw=1440&bih=701#
+Bulgarian Split Squat,Basic,"Dumbbells,Body Weight",Weight,Push,Isolation,Legs,Quads,"Calves,Glutes",3,6-10,1,No,https://www.youtube.com/watch?v=7Aqeb8UHl4k
+Romanian Deadlift,Gym,"Barbell,Dumbbells",Weight,Pull,Compound,Legs,"Glutes,Hamstrings",Quads,3,8-10,1,No,https://www.youtube.com/watch?v=mtVxGtW38g0
+Lunges,Basic,"Dumbbells,Body Weight","Calisthenics,Weight",Push,Isolation,Legs,"Quads,Glutes",Calves,3,10-12,0,No,https://www.youtube.com/watch?v=VcU3dUr0UEE
+Step-ups,Basic,"Dumbbells,Body Weight",Calisthenics,Pull,Isolation,Legs,"Calves,Glutes","Quads,Hamstrings",3,12,0,No,https://www.youtube.com/watch?v=7AtIjR-QqVA
+Swiss Ball Leg Curl,Gym,Medicine Ball,Weight,Pull,Isolation,Legs,"Glutes,Hamstrings",Quads,3,15,0,No,https://www.youtube.com/watch?v=NwE9ppTTlXo
+Calf Raise,Gymless,"Dumbbells,Body Weight",Calisthenics,Push,Isolation,Legs,Calves,Glutes,3,12-15,0,No,https://www.youtube.com/watch?v=wxwY7GXxL4k
+Barbell Hip Thrust ,Gym,"Barbell,Dumbbells",Weight,Push,Isolation,Legs,"Glutes,Hamstrings",Core,3,8,0,No,https://www.youtube.com/watch?v=2c68AWG5AP4
+Glute Ham Raise,Gym,Machine,Weight,Pull,Isolation,Legs,"Glutes,Hamstrings",Core,3,12,0,No,https://www.google.com/search?q=glute+ham+raise&source=lnms&tbm=vid&sa=X&ved=0ahUKEwi7no31m4XjAhVJB50JHVFICrAQ_AUIECgB&biw=1440&bih=701
+Bulgarian Split Squat With 5 Second Hold,Gymless,"Dumbbells,Body Weight",Calisthenics,Push,Isolation,Legs,Quads,"Glutes,Core",3,6-10,0,No,https://www.youtube.com/watch?v=GGyLiSssxaE
+Jumping Lunges,Gymless,"Dumbbells,Body Weight",Calisthenics,Push,Isolation,Legs,"Quads,Glutes",Hamstrings,3,8,0,No,https://www.youtube.com/watch?v=grID4CMcPdA
+Pistol Squat,Basic,"Dumbbells,Body Weight",Weight,Push,Isolation,Legs,"Glutes,Hamstrings",Quads,3,8,0,No,https://www.youtube.com/watch?v=qDcniqddTeE
+Bodyweight Hip Thrust,Gymless,Body Weight,Calisthenics,Push,Compound,Legs,"Glutes,Hamstrings",Core,3,8-15,0,No,https://www.youtube.com/watch?v=nHCbHKb0e8A
+Medicine Ball Russian Twist,Gymless,Medicine Ball,Calisthenics,Pull,Isolation,Core,Obliques,,3,40-50,0,No,https://www.youtube.com/watch?v=2_MsoqTpIJ8
+Barbell Floor Wiper,Gym,Barbell,Weight,Pull,Isolation,Core,Obliques,,3,10,0,No,https://www.menshealth.com/uk/building-muscle/a757285/best-ab-exercises/
+Medicine Ball Slam,Basic,Medicine Ball,Weight,Pull,Isolation,Core,Core,,3,12,0,No,https://www.menshealth.com/uk/building-muscle/a757285/best-ab-exercises/
+Side Jacknife,Gymless,Body Weight,Calisthenics,Pull,Isolation,Core,Obliques,,3,10-12,0,No,https://www.menshealth.com/uk/building-muscle/a757285/best-ab-exercises/
+Cocoon,Gymless,Body Weight,Calisthenics,Pull,Isolation,Core,Core,,3,15,0,No,https://www.menshealth.com/uk/building-muscle/a757285/best-ab-exercises/
+Medicine Ball Situp,Gymless,Medicine Ball,Calisthenics,Pull,Isolation,Core,Core,,3,15,0,No,https://www.menshealth.com/uk/building-muscle/a757285/best-ab-exercises/
+Hanging Leg Raises,Gymless,Body Weight,Calisthenics,Pull,Isolation,Core,Core,,3,10-12,0,No,https://www.menshealth.com/uk/building-muscle/a757285/best-ab-exercises/
+Superman with Twist,Gymless,Body Weight,Calisthenics,Pull,Isolation,Core,"Core,Obliques",,3,12,0,No,https://www.menshealth.com/uk/building-muscle/a757285/best-ab-exercises/
+Dish Rocks,Gymless,Body Weight,Calisthenics,Pull,Isolation,Core,Core,,3,12,0,No,https://www.menshealth.com/uk/building-muscle/a757285/best-ab-exercises/
+Lebron James Abs Workout,Basic,"Body Weight,Medicine Ball,Dumbbells",Calisthenics,Pull,Compound,Full,"Core,Obliques",,3,12-15,0,Yes,https://www.youtube.com/watch?v=KYerbk1LuNE
+ATHLEAN-X Holy Trinity,Gym,Dip Bars,Weight,Pull,Compound,Core,"Core,Obliques",,3,8-12,0,Yes,https://www.youtube.com/watch?v=d08B-QJL124
+Box Jumps,Gymless,Box,Plyo,Push,Compound,Legs,"Quads,Glutes,Calves",Core,,,0,No,
+Burpee,Gymless,Body Weight,Plyo,Cardio,Compound,Cardio,Full Body,,,,0,No,
+Butt Kickers,Gymless,Body Weight,Plyo,Cardio,Compound,Cardio,Cardio,Legs,,,0,No,
+Compass Jump,Gymless,Body Weight,Plyo,Cardio,Compound,Cardio,Full Body,,,,0,No,
+Crab Crawl,Gymless,Body Weight,Calisthenics,Cardio,Compound,Full,Full Body,,,,0,No,
+Cycling,Basic,Machine,Cardio,Cardio,Compound,Cardio,Cardio,"Quads,Glutes,Calves",,,0,No,
+Frogger,Gymless,Body Weight,Plyo,Cardio,Compound,Full,Full Body,,,,0,No,
+High Knees,Gymless,Body Weight,Plyo,Cardio,Compound,Legs,"Quads,Calves",Glutes,,,0,No,
+Jumping Jacks,Gymless ,Body Weight,Plyo,Cardio,Compound,Cardio,Full Body,,,,0,No,

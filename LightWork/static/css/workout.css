@@ -1,0 +1,23 @@
+/* Workout Pages */
+
+#return {
+  background-image: url("../img/bg6.jpg");
+  background-position: center;
+  background-size: cover;
+  box-shadow: inset 0 0 0 100vh rgba(250, 250, 250, 0.5);
+}
+
+.routine-custom {
+  border : 0px;
+  text-align: center;
+}
+
+.routine-custom th {
+  background-color: rgba(0, 0, 0, 0.8);
+  color : #ffffff;
+  padding : 5px;
+}
+
+.routine-custom td {
+  padding : 5px;
+}

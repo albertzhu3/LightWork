@@ -1,0 +1,60 @@
+{% extends "layout.html" %}
+
+{% block style %}
+  <link rel="stylesheet" type="text/css" href="../static/css/config.css" />
+  <link rel="stylesheet" type="text/css" href="../static/css/index.css" />
+{% endblock %}
+
+{% block title %}
+  Index
+{% endblock %}
+
+{% block main %}
+<!-- FORM -->
+<div class="jumbotron" id="configJumboE">
+  <h1>Design Your Workout <small style="color: #04007f"> </small></h1>
+</div>
+
+<div class="container optionsConfig">
+  <form id="config" action="/getWorkout" method="post">
+      <h2>Step 1:</h2>
+      <label class="text-muted">Chose your primary goal </label>  <br>
+      <div class="step">
+        <input type="radio" name="goal" value="low" id="low"><label for="low"><i class="fas fa-angle-right"></i> Strength </label><br>
+        <input type="radio" name="goal" value="mix" id="mix"><label for="mix"><i class="fas fa-angle-right"></i> Muscle Growth </label><br>
+        <input type="radio" name="goal" value="high" id="high"><label for="high"><i class="fas fa-angle-right"></i> Muscle Conditioning / Stamina </label><br>
+        
+      </div>
+
+    <div class="weightOptions">
+      <h2>Step 2:</h2>
+      <label class="text-muted">Target Body Part/Muscle Group </label>  <br>
+      <div class="step">
+        <input type="radio" name="group" value="chest" id="chest"><label for="chest"><i class="fas fa-angle-right"></i>  Chest</label><br>
+        <input type="radio" name="group" value="shoulders" id="shoulders"><label for="shoulders"><i class="fas fa-angle-right"></i>  Shoulders</label><br>
+        <input type="radio" name="group" value="back" id="back"><label for="back"><i class="fas fa-angle-right"></i>  Back </label><br>
+        <input type="radio" name="group" value="arms" id="arms"><label for="arms"><i class="fas fa-angle-right"></i>  Arms</label> <br>
+        <input type="radio" name="group" value="legs" id="legs"><label for="legs"><i class="fas fa-angle-right"></i>  Legs </label><br>
+        <input type="radio" name="group" value="core" id="core"><label for="core"><i class="fas fa-angle-right"></i>  Core </label><br>
+        <input type="radio" name="group" value="full" id="full"><label for="full"><i class="fas fa-angle-right"></i>  Full Body </label><br>
+      </div>
+    </div>
+
+    
+
+
+    <h2>Step 3:</h2>
+    <label class="text-muted">Equipment & Gear</label>  <br/>
+    <div class="step">
+      <input type="radio" name="gear" value="full" id="fully"><label for="fully"><i class="fas fa-angle-right"></i>  Gym (Fully Equipped) </label><br>
+      <input type="radio" name="gear" value="basic" id="basic"><label for="basic"><i class="fas fa-angle-right"></i>  Gym (Basic Equipment) </label><br>
+      <input type="radio" name="gear" value="gymless" id="gymless"><label for="gymless"><i class="fas fa-angle-right"></i>  No Gym </label><br>
+    </div>
+
+    <div class="step">
+      <input type="submit" form="config" class="btn btn-warning disabled sub" disabled="disabled" value="Get Your Workout">
+    </div>
+  </form>
+
+</div>
+{% endblock %}
